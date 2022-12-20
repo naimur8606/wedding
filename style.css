@@ -1,0 +1,80 @@
+body{
+    background-color: white rgba(229, 229, 229, 1);
+  }
+  p{
+    color: lightgray;
+  }
+  .container{
+    padding-bottom: 0px;
+    background-color: white; 
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+  #album{
+    background-color: rgba(65, 140, 253, 1);
+    border: none;
+  }
+  .w-img{
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+  }
+  .plan-button{
+    background-color: rgb(248, 237, 244);
+    border-radius: 20px;
+    border: none;
+    color: rgba(65, 140, 253, 1);
+    width: 200px;
+  }
+  .card{
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 20px;
+    text-align: center;
+  }
+  #c-plan-button{
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+  }
+  h3{
+    text-align: center;
+  }
+ 
+ .client-img{
+  border-radius: 50%;
+ }
+ 
+ .abc{
+  border: 1px solid gray;
+  height: 25px;
+ }
+ .qstn{
+  margin-top: 55px;
+  margin-left: 50px;
+ }
+ 
+ footer{
+  background-color: black;
+  height: 175px;
+  border-radius: 15px;
+ }
+ footer img{
+  width: 200px;
+ }
+ footer p{
+  font-size: 20px;
+  color: white;
+ }
+ .fl{
+  margin: 70px 40px;
+ }
+ .fr{
+  float: right;
+  margin-right: 20px;
+ }
+ .grid{
+  display: grid;
+  grid-gap: 10px;
+ }
